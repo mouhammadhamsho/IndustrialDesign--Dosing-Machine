@@ -1,0 +1,9 @@
+
+C:\Users\Hamsho\Desktop\OPC\u_Proximity>pytest
+============================= test session starts =============================
+platform win32 -- Python 3.7.4, pytest-5.2.1, py-1.8.0, pluggy-0.13.0
+rootdir: C:\Users\Hamsho\Desktop\OPC\u_Proximity
+plugins: arraydiff-0.3, doctestplus-0.4.0, html-2.1.1, metadata-1.9.0, openfiles-0.4.0, remotedata-0.3.2, timeout-1.3.4
+collected 5 items
+
+test_u_Proximity.py 
